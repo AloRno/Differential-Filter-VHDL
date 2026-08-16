@@ -37,7 +37,7 @@ Validated against the official course-provided testbench ([`testbench/tb2425.vhd
 
 ## 🛠️ Build & Run
 ### Prerequisites
-* Xilinx Vivado (or any VHDL-2008-compatible simulator, e.g. GHDL/ModelSim)
+* Xilinx Vivado 
 
 ### Simulation
 1. Add [`project_reti_logiche.vhd`](project_reti_logiche.vhd) and [`testbench/tb2425.vhd`](testbench/tb2425.vhd) to a new project/simulation.
